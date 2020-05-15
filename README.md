@@ -40,7 +40,6 @@
 - [Explorer](https://explorer.minter.network/)
 - [Console](https://console.minter.network/)
 - [Documentation](https://docs.minter.network/)
-
 - [Minter on GitHub](https://github.com/MinterTeam/)
 
 ## Backers
