@@ -17,6 +17,7 @@
 - [Products](#products)
   - [Wallet](#wallet)
   - [Explorer](#explorer)
+  - [Console](https://console.minter.network/)
   - [Other](#other)
 - [Playground](#playground)
   - [Testnet](#testnet)
@@ -36,8 +37,11 @@
 ## Official
 
 - [Official website](https://www.minter.network/)
-- [Minter on GitHub](https://github.com/MinterTeam/)
+- [Explorer](https://explorer.minter.network/)
+- [Console](https://console.minter.network/)
 - [Documentation](https://docs.minter.network/)
+
+- [Minter on GitHub](https://github.com/MinterTeam/)
 
 ## Backers
 
