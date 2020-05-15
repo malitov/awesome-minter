@@ -43,4 +43,4 @@
 
 Thank you to all our backers! 🙏 
 
-<img src="./qr.png">
+<img src="./qr.png" width="150px">
