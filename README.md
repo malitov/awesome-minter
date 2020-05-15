@@ -39,3 +39,8 @@
 - [Minter on GitHub](https://github.com/MinterTeam/)
 - [Documentation](https://docs.minter.network/)
 
+## Backers
+
+Thank you to all our backers! 🙏 
+
+<img src="./qr.png">
