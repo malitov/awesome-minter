@@ -42,6 +42,8 @@
 - [Documentation](https://docs.minter.network/)
 - [Minter on GitHub](https://github.com/MinterTeam/)
 
+**[`^        back to top        ^`](#)**
+
 ## Backers
 
 Thank you to all our backers! 🙏 
